@@ -20,7 +20,7 @@ const Gigs = () => {
   return (
     <div className="gigs">
       <div className="container">
-        <span className="breadcrumbs">Allo-Fix > Electrotechnique ></span>
+        <span className="breadcrumbs">Allo-Fix  Electrotechnique </span>
         <h1>Electrotechnique</h1>
         <p>
           Explorez nos services de réparation en électrotechniqe
